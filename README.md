@@ -5,7 +5,7 @@ This project demonstrates an end-to-end Data Engineering pipeline built using Py
 
 ## 🛠 Tech Stack
 - PySpark
-- Spark SQL
+- Spark DSL
 - Google Cloud Storage (GCS)
 - JSON & Parquet
 - Linux / gsutil
